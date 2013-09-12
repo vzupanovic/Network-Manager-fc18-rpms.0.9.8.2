@@ -1,6 +1,0 @@
-README
----------------------------------------------
-NetworkManager RPM-s for Fedora 18 Linux distribution
-with console extension patch wich allows setting up
-connection to mobile internet using only console
-application (NMCLI).
